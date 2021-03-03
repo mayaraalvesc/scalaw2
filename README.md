@@ -1,7 +1,6 @@
 # scalaw2
 Homework: week5
 
-Unable to run wordCount so it's missing the file in .scala format and exercise 4 |
 
 
 Files: |
